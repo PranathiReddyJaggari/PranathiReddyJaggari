@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👋 Hi there! I'm Pranathi Reddy Jaggari
 
-<!--
-**PranathiReddyJaggari/PranathiReddyJaggari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Job-Seeking Software Developer** | 💻 **Ex-DXC Technology**  
+🌱 Passionate about building clean, responsive web apps and growing as a frontend developer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+- 🌐 HTML, CSS, JavaScript
+- ⚛️ React.js
+
+---
+
+### 🚀 Projects & Interests
+- 📈 **Fox of Hood** – A stock portfolio management app that helps users track investments, view profits/losses, and analyze performance with charts.
+
+---
+
+### 🤝 What I'm Looking For
+- 🤝 Collaborations on real-world projects
+- 🌍 Open-source contributions
+- 💡 Learning opportunities and mentorship
+
+---
+
+### 📫 Contact Me
+- ✉️ Email: [pranathireddy.jaggari@gmail.com](mailto:pranathireddy.jaggari@gmail.com)
+- 🧳 Portfolio coming soon...
+
+---
+
+> _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
