@@ -25,7 +25,7 @@
 
 ### 📫 Contact Me
 - ✉️ Email: [pranathireddy.jaggari@gmail.com](mailto:pranathireddy.jaggari@gmail.com)
-- 🧳 Portfolio coming soon...
+- 🧳 Portfolio: https://pranathireddyjaggari.github.io/Personal-Portfolio/
 
 ---
 
