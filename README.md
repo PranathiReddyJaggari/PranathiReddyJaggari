@@ -1,29 +1,29 @@
 ## 👋 Hi there! I'm Pranathi Reddy Jaggari
 
-🎯 **Job-Seeking Software Developer** | 💻 **Ex-DXC Technology**  
-🌱 Passionate about building clean, responsive web apps and growing as a frontend developer.
+ **Job-Seeking Software Developer** | 💻 **Ex-DXC Technology**  
+ Passionate about building clean, responsive web apps and growing as a frontend developer.
 
 ---
 
-### 🧰 Tech Stack
+###  Tech Stack
 - 🌐 HTML, CSS, JavaScript
 - ⚛️ React.js
 
 ---
 
-### 🚀 Projects & Interests
+###  Projects & Interests
 - 📈 **Fox of Hood** – A stock portfolio management app that helps users track investments, view profits/losses, and analyze performance with charts.
 
 ---
 
-### 🤝 What I'm Looking For
+###  What I'm Looking For
 - 🤝 Collaborations on real-world projects
 - 🌍 Open-source contributions
 - 💡 Learning opportunities and mentorship
 
 ---
 
-### 📫 Contact Me
+###  Contact Me
 - ✉️ Email: [pranathireddy.jaggari@gmail.com](mailto:pranathireddy.jaggari@gmail.com)
 - 🧳 Portfolio: https://pranathireddyjaggari.github.io/Personal-Portfolio/
 
